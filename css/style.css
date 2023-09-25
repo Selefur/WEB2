@@ -138,3 +138,14 @@ textarea
     width: 80%;
     
 }
+footer 
+{ 
+    display: block;
+}
+table
+{
+  color: #ffffff;
+  background-color: #161518;
+  font-size: 30px;
+  font-family: "Courier New", monospace;
+}
